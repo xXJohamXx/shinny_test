@@ -1,0 +1,13 @@
+name: shiny_test
+title: shiny_test
+username:
+account: joham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352696
+bundleId: 6862152
+url: https://joham.shinyapps.io/shiny_test/
+when: 1676760134.2546
+lastSyncTime: 1676760134.2546
+asMultiple: FALSE
+asStatic: FALSE
